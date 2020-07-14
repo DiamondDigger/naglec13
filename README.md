@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 I'm not an expert but on my way.
 
+<img src='https://media.giphy.com/media/vzO0Vc8b2VBLi/source.gif'>
 
 
 Stack : 
@@ -34,5 +35,19 @@ Stack :
  - CircleCi
  - MySQL 
  - Git
+ 
+ About my soft skills - I worked in different areas on positions "electrician for maintenance of hoisting mechanisms and cranes", "duty engineer (dispatcher) of a power electrical substation" and some others =) 
+ - you work when the someone broke something - you should analizing all conditions find and fix the problem in shortest period of times
+ - work with people - you should prepare safe conditions for your team  in danger area - responsability for you decisions and lifes of others 
+- stick to big number of rules and documentation  - clear understanding and following the set of rules 
+- ability to find collaborative decisions and negotiate in difficult situations 
+- work in team
+ - work under the pressure
+ - share cakes and goodies with teammates
+ 
+ Briefly summarizing in relation to my new path:
+
+<img src='https://media.giphy.com/media/BuReg1EyvWaac/giphy.gif'>
+
 
 You can see my achievments right bellow.
