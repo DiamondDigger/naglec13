@@ -46,8 +46,11 @@ Stack :
  - share cakes and goodies with teammates
  
  Briefly summarizing in relation to my new path:
-
+ 
 <img src='https://media.giphy.com/media/BuReg1EyvWaac/giphy.gif'>
+<img src='https://visitor-badge.glitch.me/badge?page_id=naglec13.naglec13' alt= 'visitor badge'>
 
 
-You can see my achievments right bellow.
+<p align = 'center'>
+  <img src="https://github-readme-stats.vercel.app/api/?username=naglec13&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+</p>
