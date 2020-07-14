@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
- I'm Alex. I am self-taught developer with Java fungamentals certificate. Open to new opportunities and now :
+ I'm Alex. I am a self-taught developer with Java fungamentals certificate. Open to new opportunities and now :
  
 - 🔭 I’m currently working on gaining experience in Java EE
 - 🌱 I’m currently learning Spring Framework and follow Agile approach in building projects
