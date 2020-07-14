@@ -37,8 +37,11 @@ Stack :
  - Git
 </p>
 
+
 <br>
 <br>
+<br>
+
 
  About my soft skills - I worked in different areas on positions "electrician for maintenance of hoisting mechanisms and cranes", "duty engineer (dispatcher) of a power electrical substation" and some others =) 
  - you work when the someone broke something - you should analizing all conditions find and fix the problem in shortest period of times
