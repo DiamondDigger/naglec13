@@ -55,7 +55,8 @@ Stack :
  Briefly summarizing in relation to my new path:
  
 <img src='https://media.giphy.com/media/BuReg1EyvWaac/giphy.gif'>
-<img src='https://visitor-badge.glitch.me/badge?page_id=naglec13.naglec13' alt= 'visitor badge'>
+<img src='https://visitor-badge.glitch.me/badge?page_id=naglec13.naglec13'
+alt= \_o.o_/\_0.o/\_0.0_/\_o.0_/\_o.o_/'>
 
 
 <p align = 'center'>
