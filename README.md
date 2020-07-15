@@ -29,11 +29,15 @@ I'm not an expert but on my way.
 Stack : 
  - Java 
  - Spring Framework
- - JUnit
  - Lombock
- - Mockito
- - CircleCi
- - MySQL 
+- ORM:
+   - Hibernate
+- Testing:
+   - JUnit 
+   - Mockito
+   - CircleCI
+- Build: 
+   - Maven
  - Git
 </p>
 
