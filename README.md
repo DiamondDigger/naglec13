@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  
 - 🔭 I’m currently working on gaining experience in Java EE
 - 🌱 I’m currently learning Spring Framework and follow Agile approach in building projects
+- 👯 I’m also interested in JS (back and front) : -> NodeJS -> VueJS
 
 I'm not an expert but on my way.
 <p>
