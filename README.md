@@ -28,7 +28,7 @@ I'm not an expert but on my way.
      vspace='100' hspace='100'>
 
 Stack : 
- - Java 
+ - Java, Javascript
  - Spring Framework
  - Lombock
 - ORM:
