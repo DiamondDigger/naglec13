@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on experiencing in Java EE
-- 🌱 I’m currently learning Spring Framework and building projects via Agile approach
+- 🔭 I’m currently working on experiencing in Java EE, frontend
+- 🌱 I’m currently learning Spring Framework and building projects via Agile approach, React, Redux
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 - 🔭 I’m currently working on gaining experience in Java EE
 - 🌱 I’m currently learning Spring Framework and follow Agile approach in building projects
-- 👯 I’m also interested in JS (back and front) : -> NodeJS -> VueJS
+- 👯 I’m also interested in JS (back and front) : -> NodeJS -> React 
 
 I'm not an expert but on my way.
 <p>
@@ -28,7 +28,7 @@ I'm not an expert but on my way.
      vspace='100' hspace='100'>
 
 Stack : 
- - Java, Javascript
+ - Java, Javascript( React, Redux, Node) 
  - Spring Framework
  - Lombock
 - ORM:
