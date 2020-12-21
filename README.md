@@ -24,7 +24,8 @@ Here are some ideas to get you started:
      vspace='100' hspace='100'>
 
 Stack : 
- - Java, Javascript( React, Redux, Node) 
+Backend:
+ - Java
  - Spring Framework
  - Lombock
 - ORM:
@@ -36,6 +37,19 @@ Stack :
 - Build: 
    - Maven
  - Git
+</p>
+
+Frontend:
+ - Javascript 
+ - ReactJS
+ - Redux ( react-redux )
+ - GraphQL
+ - Gatsby
+ - Styled Components
+ - Material UI
+- Testing:
+   - Jest & Enzyme 
+
 </p>
 
 
