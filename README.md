@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I'm Alex. I am devepoler and open to new opportunities and now :
+ I'm Alex. I am a developer and open to new opportunities and now :
  
 - 🔭 I’m currently working on gaining experience in frontend (Javascript, React) 
 - 👯 Feel free to contact me  
