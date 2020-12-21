@@ -20,39 +20,44 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on gaining experience in frontend (Javascript, React) 
 
 <p>
-<img src='https://media.giphy.com/media/vzO0Vc8b2VBLi/source.gif' align='right'
+<img src='https://media.giphy.com/media/vzO0Vc8b2VBLi/source.gif' 
      vspace='100' hspace='100'>
+ </p>
+ 
+ | Frontend | Backend |
+| --- | --- |
+| `Js/Ts/React/GraphQL` | `Java/Spring` |
+---
+---
+ 
+ More in details:
+ 
+  | Backend | Description |
+| --- | --- |
+| `Language` | Java |
+| `Framework` | Spring Framework  |
+| `Library` | Lombock |
+| `ORM` | Hibernate|
+| `Testing framework` | JUnit |
+| `Testing framework` | Mockito |
+| `CI` | Circle CI |
+| `Build` | Maven |
+  ---
+  | Frontend | Description |
+| --- | --- |
+| `Language` | Javasript |
+| `Language` | Typesript |
+| `Library` | React |
+| `Library` | Redux |
+| `UI binding Library` | React-Redux |
+| `Query Language` | GraphQL |
+| `Framework` | Gatsby |
+| `CSS-in-JS Library` | Styled Components |
+| `CSS Framework` | Material UI |
+| `Testing Framework` | Jest |
+| `Testing Utility` | Enzyme |
 
-Stack : 
-Backend:
- - Java
- - Spring Framework
- - Lombock
-- ORM:
-   - Hibernate
-- Testing:
-   - JUnit 
-   - Mockito
-   - CircleCI
-- Build: 
-   - Maven
- - Git
-</p>
-
-Frontend:
- - Javascript 
- - ReactJS
- - Redux ( react-redux )
- - GraphQL
- - Gatsby
- - Styled Components
- - Material UI
-- Testing:
-   - Jest & Enzyme 
-
-</p>
-
-
+---
 <br>
 <br>
 <br>
@@ -75,5 +80,7 @@ alt= \_o.o_/\_0.o/\_0.0_/\_o.0_/\_o.o_/'>
 
 
 <p align = 'center'>
-  <img src="https://github-readme-stats.vercel.app/api/?username=naglec13&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=naglec13&show_icons=true&theme=dark" alt="github stats"/></br>
 </p>
+
+<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/64/000000/spring-logo.png"/><img src="https://img.icons8.com/color/64/000000/javascript.png"/><img src="https://img.icons8.com/color/64/000000/typescript.png"/><img src="https://img.icons8.com/officel/64/000000/react.png"/><img src="https://img.icons8.com/color/64/000000/material-ui.png"/>
