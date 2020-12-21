@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  I'm Alex. I am devepoler and open to new opportunities and now :
  
 - 🔭 I’m currently working on gaining experience in frontend (Javascript, React) 
+- 👯 Feel free to contact me  
 
 <p>
 <img src='https://media.giphy.com/media/vzO0Vc8b2VBLi/source.gif' 
