@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
- I'm Alex. I am a self-taught developer with Java fungamentals certificate. Open to new opportunities and now :
+ I'm Alex. I am a self-taught developer with a Java fundamentals certificate. Open to new opportunities and now :
  
-- 🔭 I’m currently working on gaining experience in frontend (Javascript, React)
-- 🌱 I’m currently learning Spring Framework and follow Agile approach in building projects 
+- 🔭 I’m currently working on gaining experience in frontend (Javascript, React) 
 
-I'm not an expert but on my way.
 <p>
 <img src='https://media.giphy.com/media/vzO0Vc8b2VBLi/source.gif' align='right'
      vspace='100' hspace='100'>
@@ -47,16 +44,16 @@ Stack :
 <br>
 
 
- About my soft skills - I worked in different areas on positions "electrician for maintenance of hoisting mechanisms and cranes", "duty engineer (dispatcher) of a power electrical substation" and some others =) 
- - you work when the someone broke something - you should analizing all conditions find and fix the problem in shortest period of times
- - work with people - you should prepare safe conditions for your team  in danger area - responsability for you decisions and lifes of others 
-- stick to big number of rules and documentation  - clear understanding and following the set of rules 
-- ability to find collaborative decisions and negotiate in difficult situations 
-- work in team
- - work under the pressure
- - share cakes and goodies with teammates
+About my soft skills - I worked in different areas on positions "electrician for maintenance of hoisting mechanisms and cranes", "duty engineer (dispatcher) of a power electrical substation" and some others =)
+  - you work when someone broke something - you should analyzing all conditions find and fix the problem in the shortest period of times
+  - working with people - you should prepare safe conditions for your team in a dangerous area - responsibility for your decisions and lives of others
+- stick to a big number of rules and documentation - clear understanding and following the set of rules
+- ability to find collaborative decisions and negotiate in difficult situations
+- work as a team
+  - work under the pressure
+  - share cakes and goodies with teammates
 
- Briefly summarizing in relation to my new path:
+  Briefly summarizing in relation to my new path:
  
 <img src='https://media.giphy.com/media/BuReg1EyvWaac/giphy.gif'>
 <img src='https://visitor-badge.glitch.me/badge?page_id=naglec13.naglec13'
