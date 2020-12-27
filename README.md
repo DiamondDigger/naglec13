@@ -73,8 +73,8 @@ About my < <b>soft skills</b> > - I worked in different areas on positions "elec
 - stick to a big number of rules and documentation - clear understanding and following the set of rules
 - ability to find collaborative decisions and negotiate in difficult situations
 - work as a team
-  - work under the pressure
-  - share cakes and goodies with teammates
+- work under the pressure
+- share cakes and goodies with teammates
   
   Briefly summarizing in relation to my new path:
  
