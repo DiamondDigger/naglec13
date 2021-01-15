@@ -1,21 +1,4 @@
 
-<hr/>
-<p align='center'>
-
-<img src="https://img.icons8.com/cotton/100/000000/santa--v1.png"/>
-</p>
-
-<h1 align='center' font-weight='bold'>
-Happy New YEAR!!!
-</h1>
-<hr/>
-
-
-
-
-
-
-
 ### Hi there <img src="https://img.icons8.com/dusk/100/000000/snowman.png"/> 
 
 <!--
