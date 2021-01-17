@@ -1,3 +1,9 @@
+<hr/>
+<p align="center">
+ <img src="https://img.icons8.com/cotton/64/000000/barbell.png"/> <h2 align="center"> Searching for a job </h2>
+<p/>
+<hr/>
+<hr/>
 
 ### Hi there <img src="https://img.icons8.com/dusk/100/000000/snowman.png"/> 
 
@@ -16,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I'm Alex. I am a developer and open to new opportunities. Now:
+ I'm Alex. I am a developer open to new opportunities. Now:
  
 - 🔭 I’m currently working on gaining experience in frontend (Javascript, React) 
 - 👯 Feel free to contact me  
